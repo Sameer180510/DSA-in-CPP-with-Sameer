@@ -36,7 +36,7 @@ int main()
     }
 
     // delete keyword ka use
-    // It del
+    // It deletes the memory allocated in heap memory
     delete ptr;
     delete ptr2;
     delete[] p; // it was use for array so [] is used
