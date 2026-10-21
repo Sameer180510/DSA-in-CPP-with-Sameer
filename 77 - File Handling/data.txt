@@ -1,0 +1,4 @@
+Original Data: 
+34 54 2 1 23 
+Sorted data: 
+1 2 23 34 54 
